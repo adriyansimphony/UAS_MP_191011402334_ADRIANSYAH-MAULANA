@@ -15,7 +15,7 @@ class _ArtikelScreenState extends State<ArtikelScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: const Text('191011402334 - Adriansyah Maulana',
+          title: const Text('191011402334 -- Adriansyah Maulana',
               style:
                   TextStyle(color: Colors.black, fontWeight: FontWeight.bold)),
           backgroundColor: Colors.cyan,
